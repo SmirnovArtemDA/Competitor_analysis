@@ -1,3 +1,1 @@
-
-permalink: /making-readmes-readable/
-title: АНАЛИЗ
+# Первичный анализ ЦА для конкурента 
