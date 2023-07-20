@@ -27,7 +27,7 @@
 Минусы: Временами долгое обслуживание, плохое digital взаимодействие с аудиторией. 
 
 Целевая аудитория: Девушки. Средний возрас 30 лет. Активные пользователи мобильного телефона. 
-[Дашборд]((https://app.powerbi.com/view?r=eyJrIjoiMzJjOTFjNGItMDRiMS00OTQ1LWJhMmItYWY1MzEyYmFkMzU1IiwidCI6IjZhNGRlZTAxLWMzZjUtNGQ0Yi1iZGQyLTllMWYxNDgyYWM1ZCIsImMiOjl9&pageName=ReportSectioncecb244b3c848b09537f)
+[Дашборд](https://app.powerbi.com/view?r=eyJrIjoiMzJjOTFjNGItMDRiMS00OTQ1LWJhMmItYWY1MzEyYmFkMzU1IiwidCI6IjZhNGRlZTAxLWMzZjUtNGQ0Yi1iZGQyLTllMWYxNDgyYWM1ZCIsImMiOjl9&pageName=ReportSectioncecb244b3c848b09537f)
 
 
 
