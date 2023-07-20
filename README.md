@@ -26,7 +26,7 @@
 Плюсы: Выглядит современно, приятная атмосфера, дружелюбный персонал, качественная продукция, собственная доставка продукции. 
 Минусы: Временами долгое обслуживание, плохое digital взаимодействие с аудиторией. 
 
-[Целевая аудитория]((https://app.powerbi.com/view?r=eyJrIjoiMzJjOTFjNGItMDRiMS00OTQ1LWJhMmItYWY1MzEyYmFkMzU1IiwidCI6IjZhNGRlZTAxLWMzZjUtNGQ0Yi1iZGQyLTllMWYxNDgyYWM1ZCIsImMiOjl9&pageName=ReportSectioncecb244b3c848b09537f)): Девушки. Средний возрас 30 лет. Активные пользователи мобильного телефона. 
+[Целевая аудитория](https://app.powerbi.com/view?r=eyJrIjoiMzJjOTFjNGItMDRiMS00OTQ1LWJhMmItYWY1MzEyYmFkMzU1IiwidCI6IjZhNGRlZTAxLWMzZjUtNGQ0Yi1iZGQyLTllMWYxNDgyYWM1ZCIsImMiOjl9&pageName=ReportSectioncecb244b3c848b09537f): Девушки. Средний возрас 30 лет. Активные пользователи мобильного телефона. 
 
 
 
